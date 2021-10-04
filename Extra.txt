@@ -1,0 +1,3 @@
+#subprocess.call(['ffmpeg', '-i', 'C:/Users/tenam/Desktop/MajorProject/sample.mp4', '-ab','160k', '-ac','0', '-ar', '16000', '-vn', 'C:/Users/tenam/Desktop/MajorProject/sample.wav'], shell= True)
+
+C:/Users/tenam/Desktop/MajorProject/sample.mp4
